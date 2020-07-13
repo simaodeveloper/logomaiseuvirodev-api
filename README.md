@@ -6,10 +6,10 @@ Projeto com o objetivo de desenvolver uma aplicação REST API para fins de dese
 
 Documentação das rotas da aplicação
 
-| Rota                                              | Descrição                          | Acesso                                     |
-| ------------------------------------------------- | ---------------------------------- | ------------------------------------------ |
-| <span style="color:#3CB371">GET /login</span>     | Autenticação - Login do usuário    | <span style="color:#4682B4">Público</span> |
-| <span style="color:#3CB371">POST /register</span> | Autenticação - Cadastro do usuário | <span style="color:#4682B4">Público</span> |
+| Rota           | Descrição                          | Acesso  |
+| -------------- | ---------------------------------- | ------- |
+| GET /login     | Autenticação - Login do usuário    | Pública |
+| POST /register | Autenticação - Cadastro do usuário | Privada |
 
 # Author
 
