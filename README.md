@@ -8,8 +8,8 @@ Documentação das rotas da aplicação
 
 | Rota           | Descrição                          | Acesso  |
 | -------------- | ---------------------------------- | ------- |
-| GET /login     | Autenticação - Login do usuário    | Pública |
-| POST /register | Autenticação - Cadastro do usuário | Privada |
+| POST /login    | Autenticação - Login do usuário    | Pública |
+| POST /register | Autenticação - Cadastro do usuário | Pública |
 
 # Author
 
